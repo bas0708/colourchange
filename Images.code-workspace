@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Images",
+			"path": "\\\\wsl.localhost\\Ubuntu\\home\\basith\\catkin_ws\\src\\hfl-master\\hfl\\Images"
+		},
+		{
+			"name": "colourchange",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
