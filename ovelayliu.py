@@ -1,8 +1,8 @@
 import numpy as np
 from PIL import Image, ImageChops
 
-img = np.array(Image.open("0RGB.png"))
-img_overlay_rgba = np.array(Image.open("0Int.png"))
+img = np.array(Image.open("51RGB.png"))
+img_overlay_rgba = np.array(Image.open("51Int.png"))
 
 #newIm.show()
 #img_overlay_resize.show()
